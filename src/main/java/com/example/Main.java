@@ -1,10 +1,5 @@
 package com.example;
 
-import com.example.GeometryLibrary.Cube;
-import com.example.GeometryLibrary.Sphere;
-
-import static com.example.GeometryLibrary.GeometryUtils.*;
-
 public class Main {
     public static void main(String[] args) {
         double a = 3.0;
